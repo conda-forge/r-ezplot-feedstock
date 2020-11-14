@@ -1,4 +1,4 @@
-{% set version = "0.6.2" %}
+{% set version = "0.6.5" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/ezplot_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/ezplot/ezplot_{{ version }}.tar.gz
-  sha256: e77d5def3d4a45687ae183b81b823f20b304c467338a63617886513cf4f7111d
+  sha256: f1f73c24980a5670c4b30c0c46fb82786f985ad2908ce069cb81e0960a6096ff
 
 build:
   merge_build_host: true  # [win]
