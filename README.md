@@ -1,11 +1,11 @@
-About r-ezplot
-==============
+About r-ezplot-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ezplot-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=ezplot
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ezplot-feedstock/blob/main/LICENSE.txt)
 
 Summary: Wrapper for the 'ggplot2' package that creates a variety of common charts (e.g. bar, line, area, ROC, waterfall, pie) while aiming to reduce typing.
 
