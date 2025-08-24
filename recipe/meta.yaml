@@ -59,7 +59,6 @@ extra:
   recipe-maintainers:
     - conda-forge/r
     - wkostelecki
-    - lc5415
 
 # Package: ezplot
 # Type: Package
